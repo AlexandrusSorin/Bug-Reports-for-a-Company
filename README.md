@@ -4,15 +4,28 @@
 CUSTOMER CARE (Footer-Returns Button):
 
 Component: Footer-Returns Button
+
 Issue Type: Functional
+
 Issue Title: "Opps, someting went wrong page" is displayed when clicking on Returns button
+
 URL: https://qatest-dev.indvp.com
+
 Steps To Reproduce: Press on the Returns button from the footer
+
 Expected Result: Page appear with the details
+
 Actual Result: A page "Ooops! Something went wrong!" is displayed (see screenshot)
+
 Screenshot: https://screencast-o-matic.com/watch/c0n2qTVyfKe
+
 Video: https://www.awesomescreenshot.com/video/15692677?key=8ea40f448e33723ca370c2a493a09c7a
+
 Logs (browser console or other): N/A
+
+
+
+
 ABOUT US (Footer-Trade Enquiries Button):
 
 Component: Footer-Trade Enquiries Button
